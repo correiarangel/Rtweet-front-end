@@ -1,6 +1,6 @@
 # Rtweet-front-end
 
-Interface Web clone minimalista do Twwet
+Interface Web clone minimalista do Tweet
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
